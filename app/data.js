@@ -110,7 +110,7 @@ const data = {
       aboutSectionImageUrl: "/image_of_seth_jeevraj.jpg",
     },
     {
-      aboutSectionBadgeText: "Our Products",
+      aboutSectionBadgeText: "Store",
       aboutSectionTitle:
         "Raichur Hardwares",
       aboutSectionDescriptions: [
